@@ -1,6 +1,6 @@
 # HaptikSDK-npm-package
 A npm package that bridges HaptikSDK (Native Java) to React Native as a library.
-<img src="https://user-images.githubusercontent.com/84241885/198878080-ae7d32b2-4854-4734-a6b5-0f1d63e65944.jpeg">
+<img src="https://user-images.githubusercontent.com/84241885/198878080-ae7d32b2-4854-4734-a6b5-0f1d63e65944.jpeg" width="200">
 ![WhatsApp Image 2022-10-30 at 5 47 14 PM](https://user-images.githubusercontent.com/84241885/198878089-e46574c3-882d-47d9-a4a9-bcdb040a8875.jpeg)
 
 Use the command below to add its functionalities.
